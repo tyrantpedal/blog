@@ -14,13 +14,13 @@ How best to contact me:
 
 **# 2020-09-18**
 
-Since you clicked the `About` link, I suppose you want to know a bit about me.
+Since you clicked the `about` link, I suppose you want to know a bit about me.
 
 I have worked for many years in software development (mostly web apps) as a software engineer and recently in more leadership roles.  
 
 Along came COVID and I found myself unemployed.  This was actually a blessing in disguise.
 
-For some time now I was feeling increasing burnout in my work and had been contiplating a career shift into my true passion, *Information Security*, specifically on the Red Team side.
+For some time now I was feeling increasing burnout in my work and had been contemplating a career shift into my true passion, *Information Security*, specifically on the Red Team side.
 
 Before I lost my job, I had enrolled in the [eLearnSecurity Penetration Tester Student (PTS)](https://www.elearnsecurity.com/course/penetration_testing_student/){:target="_blank"} and had been slowly plugging away at it in my spare time.  With more time now, I quickly finished that course and took my **eLearnSecurity Junior Peneteration Tester (eJPT) certification** exam (passing).
 

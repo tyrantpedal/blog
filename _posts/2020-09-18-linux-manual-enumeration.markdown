@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Linux Enumeration"
-author: "kill:team"
 date:   2020-09-17 15:22:32 -0700
+author: andy
 categories: linux
 tags: linux
 ---
