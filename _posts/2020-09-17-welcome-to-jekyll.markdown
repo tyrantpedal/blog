@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+author: "kill:team"
 date:   2020-09-17 15:22:32 -0700
 categories: jekyll update
 ---
