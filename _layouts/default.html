@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
-{% seo %}
-  </head>
+  {%- include head.html -%}
 
   <body>
 
@@ -23,6 +16,9 @@
           {% endif %}
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section> -->
+        <section id="downloads">
+          <span style="display: inline;"><a href="/blog/">home</a> :: <a href="/blog/resources/">resources</a> :: <a href="/blog/about/">about</a> </span>
+        </section>
       </div>
     </header>
 

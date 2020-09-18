@@ -4,6 +4,14 @@
 
 layout: default
 ---
-# Welcome...
 
-[welcome to jekyll](_posts/2020-09-17-welcome-to-jekyll.markdown)
+# About
+
+- [So you want to more about this site...](about)
+
+
+# Things here
+
+- [Resources](resources)
+
+
